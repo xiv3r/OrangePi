@@ -32,6 +32,10 @@
 
 ---
 
+- 📖[WiKi](http://www.orangepi.org/orangepiwiki/index.php/Main_Page)
+
+---
+
 ### OS For Orange Pi SBC's
 
 <!-- | **Board** | **Ubuntu** | **Kali** | **RPI** | **Android** | **Debian** | **Orange Pi OS(Arch)** | **OpenWRT** | **Armbian** | **DietPi** |
