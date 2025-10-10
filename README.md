@@ -30,7 +30,6 @@
 - 📺 **[Orange Pi RV2](https://www.youtube.com/playlist?list=PLxrSjjYyzaaK0ubjjqmDJ1Tk7ReVBwgMj)**  
 - 📺 **[Orange Pi 5 Plus](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKqywZO8YE5wo7mHz5TYeUJ)**  
 
-- 📖[WiKi](http://www.orangepi.org/orangepiwiki/index.php/Main_Page)
 ---
 
 ### OS For Orange Pi SBC's
