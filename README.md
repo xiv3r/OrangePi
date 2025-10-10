@@ -32,8 +32,10 @@
 
 ---
 
+## Resource 
+
 - 📖[WiKi](http://www.orangepi.org/orangepiwiki/index.php/Main_Page)
-- [BalenaEtcher](https://etcher.balena.io/)
+- ⚡[BalenaEtcher](https://etcher.balena.io/)
 
 ---
 
