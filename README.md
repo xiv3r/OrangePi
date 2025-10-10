@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=papercodeIN.OrangePi" height="20" />
 
 
-# Orange Pi
+<h1 align = "center">🌟Orange Pi🌟</h1>
 
 ---
 <p align="center">
