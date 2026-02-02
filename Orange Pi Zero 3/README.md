@@ -51,6 +51,51 @@ $\color{Green}\Huge{\textbf{GPIO}}$
 
 ---
 
+## 🟩 **Shorts**
+
+| # | Title | Video |
+|---|-------|-------|
+| 1 | Unboxing Orange Pi Zero 3 \| Palm Size SBC \| 2GB \| Allwinner H618 | [Watch](https://youtube.com/shorts/G46ZkNLde34?feature=share) |
+| 2 | DIY Hacking Device using Kali Linux in Orange Pi Zero 3 | [Watch](https://youtube.com/shorts/jPWgji2v1Qw) |
+| 3 | Unboxing Orange Pi Expansion Board \| 2 * USB2.0 \| IR \| AV Output \| MIC | [Watch](https://youtube.com/shorts/MRjCD9KQTc0?feature=share) |
+| 4 | 3D Printed Bumper Case for Orange Pi Zero 3 \| Just ₹179 Including Delivery | [Watch](https://youtube.com/shorts/9xQMRs7rphY) |
+| 5 | DIY Android Tablet Using Orange Pi Zero 3 \| Android V12 | [Watch](https://youtube.com/shorts/Fa5Tzl2T9QA) |
+| 6 | DIY Mini PC Using Orange Pi Zero 3 \| Ubuntu Jammy XFCE Desktop Linux | [Watch](https://youtube.com/shorts/rGa9mu3wpWA) |
+| 7 | Running Raspberry Pi OS in Orange Pi Zero 3 | [Watch](https://youtube.com/shorts/Z3Uvr2xv_yw) |
+| 8 | Orange Pi Zero 3 \| Palm Size Linux SBC \| IoT \| IIoT | Watch |
+
+---
+
+## 🟩 **Getting Started Guide**
+
+| # | Title | Video | GitHub |
+|---|-------|-------|--------|
+| 1 | Flash Ubuntu Jammy Server Linux OS \| Configure USB Debugging \| SSH \| WiFi | [Watch](https://youtu.be/TlGMebe5iKk) | – |
+| 2 | Flash Ubuntu Noble Server Linux OS \| Configure USB Debugging \| SSH \| WiFi | [Watch](https://youtu.be/GKmrhXmMzrA) | – |
+| 3 | Flash Raspberry Pi Desktop OS \| HDMI Screen Integration | [Watch](https://youtu.be/RhtY68-wrAY) | – |
+| 4 | Flash Kali Linux \| HDMI Screen Integration | [Watch](https://youtu.be/xh20xW42654) | – |
+| 5 | Flash Android \| HDMI Screen Integration | [Watch](https://youtu.be/36terYso7kU) | – |
+| 6 | Setting Up Expansion Board + USB Drive Integration | [Watch](https://youtu.be/UjJ0PBWEXmo) | - |
+
+---
+
+## 🟩 **Node-RED**
+
+| # | Title | Video | GitHub |
+|---|-------|-------|--------|
+| 1 | Install Node-RED in Orange Pi Zero 3 \| Node.js \| IoT \| IIoT \| NPM | [Watch](https://youtu.be/IWFY3cSRJ7w) | [GitHub](https://github.com/papercodeIN/Embedded_Devices/blob/main/Orange%20Pi/Readme.md) |
+| 2 | Control Orange Pi Zero 3 GPIO with Node-RED (`node-red-contrib-opi-gpio`) | [Watch](https://youtu.be/zwXkFZIVF-Q) | – |
+
+---
+
+## 🟩 **GPIO**
+
+| # | Title | Video | GitHub |
+|---|-------|-------|--------|
+| 1 | Control Orange Pi Zero 3 GPIO with Python using WiringPi Library | [Watch](https://youtu.be/JtGLKRQjZCw) | [GitHub](https://github.com/papercodeIN/Embedded_Devices/blob/main/Orange%20Pi/installaion_wiringPi.md) |
+
+---
+
 # Orange Pi Zero 3 PinOut
 ```
 root@orangepizero3:~# gpio readall
