@@ -44,6 +44,7 @@
 | 4 | Flash Kali Linux \| HDMI Screen Integration | [Watch](https://youtu.be/xh20xW42654) | – |
 | 5 | Flash Android \| HDMI Screen Integration | [Watch](https://youtu.be/36terYso7kU) | – |
 | 6 | Setting Up Expansion Board + USB Drive Integration | [Watch](https://youtu.be/UjJ0PBWEXmo) | - |
+| 7 | Step-by-Step Guide on Flashing Armbian OS to Orange Pi Zero 3 with Armbian Imager | [Watch] | - |
 
 ---
 
