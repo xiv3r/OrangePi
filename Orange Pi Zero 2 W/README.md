@@ -41,7 +41,7 @@
 | 5 | Build DIY Hacking Device with Kali Linux on Orange Pi Zero 2W + Elecrow 7" Touchscreen | [Watch] |
 | 6 | Getting Started with Orange Pi Zero 2W \| Flash OpenWRT to SD Card \| HDMI Screen Integration | [Watch] |
 | 7 | Getting Started with Orange Pi Zero 2W \| Flash Orange Pi (Arch) OS to SD Card \| HDMI Screen Integration | [Watch] |
-| 8 | Step-by-Step Guide on Flashing Armbian OS to Orange Pi Zero 2W with Armbian Imager | [Watch] |
+| 8 | Step-by-Step Guide on Flashing Armbian OS to Orange Pi Zero 2W with Armbian Imager | [Watch](https://youtu.be/3_APNcBPV70) |
 
 ---
 
