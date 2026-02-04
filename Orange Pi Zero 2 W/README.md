@@ -19,7 +19,7 @@
 
 ---
 
-### 📺 Shorts
+## 🟩 **Shorts**
 | # | Title | Link |
 |---|-------|------|
 | 1 | DIY Hacking Device using Kali Linux and Orange Pi Zero 2W \| Elecrow 7 inch Touch Monitor | [Watch](https://youtube.com/shorts/mrTSluhvyG8?feature=share) |
@@ -31,7 +31,7 @@
 
 ---
 
-### 🚀 Getting Started Guide
+## 🟩 **Getting Started Guide**
 | # | Title | Link |
 |---|-------|------|
 | 1 | Getting Started with Orange Pi Zero 2W \| Flash Ubuntu Noble Desktop XFCE Linux to SD Card \| HDMI Screen Integration | [Watch](https://youtu.be/NDOqQOafcxA) |
@@ -41,10 +41,11 @@
 | 5 | Build DIY Hacking Device with Kali Linux on Orange Pi Zero 2W + Elecrow 7" Touchscreen | [Watch] |
 | 6 | Getting Started with Orange Pi Zero 2W \| Flash OpenWRT to SD Card \| HDMI Screen Integration | [Watch] |
 | 7 | Getting Started with Orange Pi Zero 2W \| Flash Orange Pi (Arch) OS to SD Card \| HDMI Screen Integration | [Watch] |
+| 8 | Step-by-Step Guide on Flashing Armbian OS to Orange Pi Zero 2W with Armbian Imager | - |
 
 ---
 
-### 🔗 Node-RED
+## 🟩 **Node-RED**
 | # | Title | Link |
 |---|-------|------|
 | 1 | How to Install Node-RED in Orange Pi Zero 2W | [Watch] |
@@ -52,14 +53,14 @@
 
 ---
 
-### ⚡ GPIO
+## 🟩 **GPIO**
 | # | Title | Link |
 |---|-------|------|
 | – | *(No entries yet)* | – |
 
 ---
 
-### 🛠 OpenPLC
+## 🟩 **OpenPLC**
 | # | Title | Link |
 |---|-------|------|
 | 1 | How to Install OpenPLC Runtime in Orange Pi Zero 2W | [Watch] |
