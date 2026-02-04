@@ -19,38 +19,51 @@
 
 ---
 
-$\color{Green}\Huge{\textbf{Shorts}}$
+### 📺 Shorts
+| # | Title | Link |
+|---|-------|------|
+| 1 | DIY Hacking Device using Kali Linux and Orange Pi Zero 2W \| Elecrow 7 inch Touch Monitor | [Watch](https://youtube.com/shorts/mrTSluhvyG8?feature=share) |
+| 2 | Running Raspberry Pi OS in Orange Pi Zero 2W \| RPI \| OPI Zero 2W | [Watch](https://youtube.com/shorts/hiByGwRkPIk?feature=share) |
+| 3 | DIY Mini PC Using Orange Pi Zero 2W \| Ubuntu Noble XFCE Desktop Linux \| Elecrow 7 inch Touch Monitor | [Watch](https://youtube.com/shorts/nx--eSX_oSY) |
+| 4 | Unboxing Orange Pi Zero 2W \| 2GB \| Small, Practical and Powerful Single Board Computer | [Watch](https://youtube.com/shorts/mLk3MIug44I) |
+| 5 | Unboxing Orange Pi Zero 2W Expansion Board \| Single Board Computer \| Ethernet \| USB \| IR \| Audio | [Watch](https://youtube.com/shorts/ehPm2NceZRY) |
+| 6 | How to Assemble the Orange Pi Zero 2W Expansion Board \| For Orange Pi Zero 2W \| USB \| IR \| RJ45 | [Watch](https://youtube.com/shorts/yDNkdYXbUN8?feature=share) |
 
-1. 🆓️DIY Hacking Device using Kali Linux and Orange Pi Zero 2W | Elecrow 7 inch Touch Monitor | [[Watch]](https://youtube.com/shorts/mrTSluhvyG8?feature=share)
-2. 🆓️Running Raspberry Pi OS in Orange Pi Zero 2W | RPI | OPI Zero 2W | [[Watch]](https://youtube.com/shorts/hiByGwRkPIk?feature=share)
-3. 🆓️DIY Mini PC Using Orange Pi Zero 2W | Ubuntu Noble XFCE Desktop Linux | Elecrow 7 inch Touch Monitor | [[Watch]](https://youtube.com/shorts/nx--eSX_oSY)
-4. 🆓️Unboxing Orange Pi Zero 2W | 2GB | Small, Practical and Powerful Single Board Computer | [[Watch]](https://youtube.com/shorts/mLk3MIug44I)
-5. 🆓️Unboxing Orange Pi Zero 2W Expansion Board | Single Board Computer | Ethernet | USB | IR | Audio | [[Watch]](https://youtube.com/shorts/ehPm2NceZRY)
-6. 🆓️How to Assemble the Orange Pi Zero 2W Expansion Board | For Orange Pi Zero 2W | USB | IR | RJ45 | [[Watch]](https://youtube.com/shorts/yDNkdYXbUN8?feature=share)
+---
 
-##
-$\color{Green}\Huge{\textbf{Getting Started Guide}}$
+### 🚀 Getting Started Guide
+| # | Title | Link |
+|---|-------|------|
+| 1 | Getting Started with Orange Pi Zero 2W \| Flash Ubuntu Noble Desktop XFCE Linux to SD Card \| HDMI Screen Integration | [Watch](https://youtu.be/NDOqQOafcxA) |
+| 2 | Getting Started with Orange Pi Zero 2W \| Flash Raspberry Pi OS to SD Card \| HDMI Screen Integration | [Watch](https://youtu.be/NDOqQOafcxA) |
+| 3 | Getting Started with Orange Pi Zero 2W \| Flash Ubuntu Jammy Desktop XFCE Linux to SD Card \| HDMI Screen Integration | [Watch] |
+| 4 | Getting Started with Orange Pi Zero 2W \| Flash Android OS to SD Card \| HDMI Screen Integration | [Watch] |
+| 5 | Build DIY Hacking Device with Kali Linux on Orange Pi Zero 2W + Elecrow 7" Touchscreen | [Watch] |
+| 6 | Getting Started with Orange Pi Zero 2W \| Flash OpenWRT to SD Card \| HDMI Screen Integration | [Watch] |
+| 7 | Getting Started with Orange Pi Zero 2W \| Flash Orange Pi (Arch) OS to SD Card \| HDMI Screen Integration | [Watch] |
 
-1. 🆓️Getting Started with Orange Pi Zero 2W | Flash Ubuntu Noble Desktop XFCE Linux to SD Card | HDMI Screen Integration | [[Watch]](https://youtu.be/NDOqQOafcxA)
-2. 🆓️Getting Started with Orange Pi Zero 2W | Flash Raspberry Pi OS to SD Card | HDMI Screen Integration | [[Watch]](https://youtu.be/NDOqQOafcxA)
-3. ⏳️Getting Started with Orange Pi Zero 2W | Flash Ubuntu Jammy Desktop XFCE Linux to SD Card | HDMI Screen Integration | [Watch]
-4. ⏳️Getting Started with Orange Pi Zero 2W | Flash Android OS to SD Card | HDMI Screen Integration | [Watch]
-5. ⏳️Build DIY Hacking Device with Kali Linux on Orange Pi Zero 2W + Elecrow 7" Touchscreen [Watch]
-6. ⏳️Getting Started with Orange Pi Zero 2W | Flash OpenWRT to SD Card | HDMI Screen Integration | [Watch]
-7. ⏳️Getting Started with Orange Pi Zero 2W | Flash Orange Pi (Arch) OS to SD Card | HDMI Screen Integration | [Watch]
+---
 
-##
-$\color{Green}\Huge{\textbf{Node-RED}}$
-1. ⏳️How to Install Node-RED in Orange Pi Zero 2W| [Watch]
-2. ⏳️How to Control Orange Pi Zero 2W GPIO from Node-RED using `node-red-contrib-opi-gpio` node | [Watch]
+### 🔗 Node-RED
+| # | Title | Link |
+|---|-------|------|
+| 1 | How to Install Node-RED in Orange Pi Zero 2W | [Watch] |
+| 2 | How to Control Orange Pi Zero 2W GPIO from Node-RED using `node-red-contrib-opi-gpio` node | [Watch] |
 
-##
-$\color{Green}\Huge{\textbf{GPIO}}$
+---
 
-##
-$\color{Green}\Huge{\textbf{OpenPLC}}$
-1. ⏳️How to Install OpenPLC Runtime in Orange Pi Zero 2W | [Watch]
-2. ⏳️Running a Ladder Logic-Based Blink Code on Orange Pi Zero 2W Using OpenPLC Runtime | [Watch]
+### ⚡ GPIO
+| # | Title | Link |
+|---|-------|------|
+| – | *(No entries yet)* | – |
+
+---
+
+### 🛠 OpenPLC
+| # | Title | Link |
+|---|-------|------|
+| 1 | How to Install OpenPLC Runtime in Orange Pi Zero 2W | [Watch] |
+| 2 | Running a Ladder Logic-Based Blink Code on Orange Pi Zero 2W Using OpenPLC Runtime | [Watch] |
 
 ---
 
