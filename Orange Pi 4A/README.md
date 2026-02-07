@@ -19,31 +19,48 @@
 
 ---
 
-$\color{Green}\Huge{\textbf{Shorts}}$
+## 🟩 Shorts
 
-1. 🆓️Unboxing Orange Pi 4A Palm Size Single Board Computer | SBC | OPI-4A | Allwinner T527 | 2GB | [[Watch]](https://youtube.com/shorts/7_msW7Os2Vo?feature=share)
-2. ⏳️Orange Pi 4A | Palm Size Linux SBC | Orange Pi | Pi | Linux SBC | IoT | IIoT | Computer | [Watch]
+| S.No | Title                                                                 | Links                                                                 |
+|------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1    | 🆓️ Unboxing Orange Pi 4A Palm Size SBC (Allwinner T527, 2GB)         | [Watch](https://youtube.com/shorts/7_msW7Os2Vo?feature=share)        |
+| 2    | ⏳️ Orange Pi 4A Palm Size Linux SBC | IoT | IIoT | Computer                  | [Watch]                                                              |
 
-##
-$\color{Green}\Huge{\textbf{Getting Started Guide}}$
+---
 
-1. 🆓️Getting Started with Orange Pi 4A | Flash Ubuntu Jammy Server Linux OS to SD Card | Configure USB Debugging | Enable SSH Access | Setup WIFI Connection | [[Watch]](https://youtu.be/QYYwaP-cx-E)
-2. 🆓️Getting Started with Orange Pi 4A | Flash Ubuntu Jammy XFCE Desktop Linux OS to SD Card | Enable SSH Access | Setup WIFI | [[Watch]](https://youtu.be/AYGstq-sK3Q)
-3. 🆓️Getting Started with Orange Pi 4A | Flash Ubuntu Jammy Gnome Desktop Linux OS to SD Card | Enable SSH Access | Setup WIFI | [[Watch]](https://youtu.be/DSpfqHI-4Bw)
+## 🟩 Getting Started Guide
 
-##
-$\color{Green}\Huge{\textbf{Node-RED}}$
-1. 🆓️How to Install Node-RED in Orange Pi 4A | Node.js | IoT | IIoT | NPM | OPI 4A | SBC | Linux | [[Watch]](https://youtu.be/R1blSGHwgyg) [[GitHub]](https://github.com/papercodeIN/Embedded_Devices/blob/main/Orange%20Pi/Readme.md)
-2. 🆓️How to Control Orange Pi 4A GPIO from Node-RED using `node-red-contrib-opi-gpio` node [[Watch]](https://youtu.be/ePs6oerTwyU)
+| S.No | Title                                                                 | Links                                                                 |
+|------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1    | 🆓️ Flash Ubuntu Jammy Server Linux OS to SD Card, SSH, WIFI          | [Watch](https://youtu.be/QYYwaP-cx-E)                                |
+| 2    | 🆓️ Flash Ubuntu Jammy XFCE Desktop Linux OS to SD Card, SSH, WIFI    | [Watch](https://youtu.be/AYGstq-sK3Q)                                |
+| 3    | 🆓️ Flash Ubuntu Jammy Gnome Desktop Linux OS to SD Card, SSH, WIFI   | [Watch](https://youtu.be/DSpfqHI-4Bw)                                |
 
-##
-$\color{Green}\Huge{\textbf{GPIO}}$
-1. 🆓️How to Control Orange Pi 4A GPIO with Python using WiringPi Library [[Watch]](https://youtu.be/BK9-z6sEGoQ) [[GitHub]](https://github.com/papercodeIN/Embedded_Devices/blob/main/Orange%20Pi/installaion_wiringPi.md)
+---
 
-##
-$\color{Green}\Huge{\textbf{Application}}$
-1. ⏳️Make WIFI to Ethernet Bridge using Orange Pi 4A | NAT Method | [Watch]
+## 🟩 Node-RED
 
+| S.No | Title                                                                 | Links                                                                 |
+|------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1    | 🆓️ Install Node-RED on Orange Pi 4A (Node.js, NPM, IoT, IIoT)        | [Watch](https://youtu.be/R1blSGHwgyg) · [GitHub](https://github.com/papercodeIN/Embedded_Devices/blob/main/Orange%20Pi/Readme.md) |
+| 2    | 🆓️ Control Orange Pi 4A GPIO from Node-RED (`node-red-contrib-opi-gpio`) | [Watch](https://youtu.be/ePs6oerTwyU)                                |
+
+---
+
+## 🟩 GPIO
+
+| S.No | Title                                                                 | Links                                                                 |
+|------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1    | 🆓️ Control Orange Pi 4A GPIO with Python using WiringPi Library      | [Watch](https://youtu.be/BK9-z6sEGoQ) · [GitHub](https://github.com/papercodeIN/Embedded_Devices/blob/main/Orange%20Pi/installaion_wiringPi.md) |
+
+---
+
+## 🟩 Application
+
+| S.No | Title                                                                 | Links                                                                 |
+|------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1    | ⏳️ Make WIFI to Ethernet Bridge using Orange Pi 4A (NAT Method)      | [Watch]                                                              |
+```
 
 ---
 
