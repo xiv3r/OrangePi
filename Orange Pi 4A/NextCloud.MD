@@ -15,7 +15,7 @@ sort -u | xargs -r -I % sudo apt-key adv --keyserver keyserver.ubuntu.com --recv
 sudo apt update
 
 ```
-### Manual Fix (If Auto Fails)
+### Manual Fix (If Auto Fails) - Worked in my case
 ```
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys \
 6ED0E7B82643E131 78DBA3BC47EF2265 762F67A0B2C39DE4 \
