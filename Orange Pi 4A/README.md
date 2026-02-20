@@ -51,7 +51,7 @@
 
 | S.No | Title | Links | Project |
 |------|-------|-------|---------| 
-| 1 | 🆓️ Control Orange Pi 4A GPIO with Python using WiringPi Library | [Watch](https://youtu.be/BK9-z6sEGoQ) · [GitHub](https://github.com/papercodeIN/Embedded_Devices/blob/main/Orange%20Pi/installaion_wiringPi.md) | |
+| 1 | 🆓️ Control Orange Pi 4A GPIO with Python using WiringPi Library | [Watch](https://youtu.be/BK9-z6sEGoQ) | [GitHub](https://github.com/papercodeIN/Embedded_Devices/blob/main/Orange%20Pi/installaion_wiringPi.md) |
 
 ---
 
