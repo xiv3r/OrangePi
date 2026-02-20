@@ -1,3 +1,9 @@
+## Use Below Command to Install CasaOS in OrangePi 4A
+
+'''
+curl -fsSL https://get.casaos.io | sudo bash
+'''
+
 
 ## Expected Output
 
