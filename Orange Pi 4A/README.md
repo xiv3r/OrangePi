@@ -42,7 +42,7 @@
 
 | S.No | Title | Links | Project |
 |------|-------|-------|---------| 
-| 1 | 🆓️ Install Node-RED on Orange Pi 4A (Node.js, NPM, IoT, IIoT) | [Watch](https://youtu.be/R1blSGHwgyg) | [GitHub](https://github.com/papercodeIN/Embedded_Devices/blob/main/Orange%20Pi/Readme.md) |
+| 1 | 🆓️ Install Node-RED on Orange Pi 4A (Node.js, NPM, IoT, IIoT) | [Watch](https://youtu.be/R1blSGHwgyg) | [GitHub](https://github.com/papercodeIN/OrangePi/blob/main/README.md) |
 | 2 | 🆓️ Control Orange Pi 4A GPIO from Node-RED (`node-red-contrib-opi-gpio`) | [Watch](https://youtu.be/ePs6oerTwyU) | |
 
 ---
