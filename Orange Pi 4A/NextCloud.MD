@@ -7,7 +7,7 @@ sudo snap install nextcloud
 
 ```
 
-### Auto-Fix All Missing Keys
+### Auto-Fix All Missing Keys if update or upgrade are failing
 ```
 sudo apt update 2>&1 | grep "NO_PUBKEY" | \
 awk '{print $NF}' | \
