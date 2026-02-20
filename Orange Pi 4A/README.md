@@ -60,6 +60,9 @@
 | S.No | Title | Links | Project |
 |------|-------|-------|---------| 
 | 1 | ⏳️ Make WIFI to Ethernet Bridge using Orange Pi 4A (NAT Method) | [Watch] | | 
+| 2 | ⏳️ Turn Orange Pi 4A into a Home Server with CasaOS | [Watch] | | 
+| 3 | ⏳️ Self-Host Nextcloud on Orange Pi 4A via CasaOS (Private Cloud Storage) | [Watch] | | 
+| 4 | ⏳️ Access Your Orange Pi 4A from Anywhere using Tailscale & CasaOS | [Watch] | | 
 
 ---
 
