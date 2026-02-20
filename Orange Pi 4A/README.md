@@ -32,9 +32,9 @@
 
 | S.No | Title | Links | Project |
 |------|-------|-------|---------| 
-| 1 | 🆓️ Flash Ubuntu Jammy Server Linux OS to SD Card, SSH, WIFI | [Watch](https://youtu.be/QYYwaP-cx-E) | | 
-| 2 | 🆓️ Flash Ubuntu Jammy XFCE Desktop Linux OS to SD Card, SSH, WIFI | [Watch](https://youtu.be/AYGstq-sK3Q) | | 
-| 3 | 🆓️ Flash Ubuntu Jammy Gnome Desktop Linux OS to SD Card, SSH, WIFI | [Watch](https://youtu.be/DSpfqHI-4Bw) | |
+| 1 | 🆓️ Flash Ubuntu Jammy Server Linux OS to SD Card - SSH Access - WiFi Setup | [Watch](https://youtu.be/QYYwaP-cx-E) | | 
+| 2 | 🆓️ Flash Ubuntu Jammy XFCE Desktop Linux OS to SD Card - SSH Access - WiFi Setup | [Watch](https://youtu.be/AYGstq-sK3Q) | | 
+| 3 | 🆓️ Flash Ubuntu Jammy Gnome Desktop Linux OS to SD Card - SSH Access - WiFi Setup | [Watch](https://youtu.be/DSpfqHI-4Bw) | |
 
 ---
 
