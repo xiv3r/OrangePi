@@ -1,13 +1,13 @@
 ## Use Below Command to Install CasaOS in OrangePi 4A
 
-'''
+```
 curl -fsSL https://get.casaos.io | sudo bash
-'''
+```
 
 
 ## Expected Output
 
-'''
+```
 
    _____                 ____   _____
   / ____|               / __ \ / ____|
@@ -409,4 +409,4 @@ Created symlink /etc/systemd/system/multi-user.target.wants/rclone.service → /
 
 orangepi@orangepi4a:~$
 
-'''
+```
